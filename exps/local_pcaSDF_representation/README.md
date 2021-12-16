@@ -1,3 +1,3 @@
 
 
-3D Shape representation power of Local PCA-SDF
+**3D Shape representation power of Local PCA-SDF**
